@@ -1253,7 +1253,7 @@ return array(
     'Do you really want to close this project: "%s"?' => '¿Realmente quiere cerrar este proyecto: "%s"?',
     'Reopen a project' => 'Reabrir un proyecto',
     'Do you really want to reopen this project: "%s"?' => '¿Realmente quiere reabrir este proyecto: "%s"?',
-    'This project is open' => 'Este proyecto está abierdo',
+    'This project is open' => 'Este proyecto está abierto',
     'This project is closed' => 'Este proyecto está cerrado',
     'Unable to upload files, check the permissions of your data folder.' => 'No se pueden cargar archivos, verifique los permisos de su carpeta de datos (data)',
     'Another category with the same name exists in this project' => 'Ya existe otra categoría con el mismo nombre en este proyecto',
